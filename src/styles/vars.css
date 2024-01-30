@@ -1,0 +1,10 @@
+:root {
+    --font-dm-sans: "DM Sans", sans-serif;
+    --primary-color: darkred;
+    --primary-color-buttons: darkblue;
+    --bg-primary-color-buttons: lightblue;
+    --bg-color-menus: rgba(149, 219, 44, 0.658);
+    --bg-color-menus-light: rgb(150, 243, 150);
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,07)
+}
